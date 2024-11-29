@@ -154,7 +154,7 @@ class _TelaLoginState extends State<TelaLogin> {
                 SizedBox(width: 10),
                 Expanded(
                   child: Text(
-                    'Login ou Senha Inválidos',
+                    'Login e/ou Senha Inválidos',
                     style: TextStyle(color: Colors.white),
                   ),
                 ),
